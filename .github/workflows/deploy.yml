@@ -10,8 +10,8 @@ env:
 jobs:
   test:
     env:
-      MONGODB_USERNAME: archer_ds
-      MONGODB_PASSWORD: O9SqXoNH6Qmc8qFs
+      MONGODB_USERNAME: 
+      MONGODB_PASSWORD: 
       MONGODB_CLUSTER_ADDRESS: cluster0.8f3znft.mongodb.net
       PORT: 8080
     runs-on: windows-latest
